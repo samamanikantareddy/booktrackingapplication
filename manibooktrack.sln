@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manibooktrack", "manibooktrack.csproj", "{EAAE0268-B416-4A2D-BECB-AEDFA64D194F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAE0268-B416-4A2D-BECB-AEDFA64D194F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAE0268-B416-4A2D-BECB-AEDFA64D194F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAE0268-B416-4A2D-BECB-AEDFA64D194F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAE0268-B416-4A2D-BECB-AEDFA64D194F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D72F0F-1D58-472A-8C65-BF3E0E2B9522}
+	EndGlobalSection
+EndGlobal
